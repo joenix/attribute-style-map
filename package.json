@@ -1,0 +1,11 @@
+{
+  "name": "attribute-style-map",
+  "version": "1.2.3",
+  "description": "attributeStyleMap Support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joenix",
+  "license": "ISC"
+}
